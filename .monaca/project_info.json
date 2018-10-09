@@ -4,7 +4,7 @@
     ],
     "framework_version": "3.5",
     "xcode_version": "8",
-    "cordova_version": "6.5",
+    "cordova_version": "6.2",
     "plugin_settings": [],
     "external_plugins": [
         "cordova-plugin-whitelist@1.3.1",
